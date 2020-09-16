@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fca6078-1cc6-4263-ac8e-146d9d8ea044" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/problem-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem-4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -160,6 +160,7 @@
       <updated>1597242295026</updated>
       <workItem from="1597242320577" duration="4425000" />
       <workItem from="1597346688858" duration="3922000" />
+      <workItem from="1600266095707" duration="98000" />
     </task>
     <servers />
   </component>
@@ -175,30 +176,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1597246392490" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1597350614378">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1600266196879">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1597350614378" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1597350614377">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1600266196879" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1600266196878">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1597350614377" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1597350614377">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1600266196878" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1600266196877">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1597350614377" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1597350614378">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1600266196877" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1600266196878">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1597350614378" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1600266196878" />
     <state x="184" y="12" key="SettingsEditor" timestamp="1597246450925">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="12" key="SettingsEditor/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1597246450925" />
-    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1597346690736">
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1600266099341">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1597346690736" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1600266099341" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -214,7 +215,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/52_Problem_Solving_Python$2_even_odd_100word.coverage" NAME="2_even_odd_100word Coverage Results" MODIFIED="1597246134646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/52_Problem_Solving_Python$1_even_odd.coverage" NAME="1_even_odd Coverage Results" MODIFIED="1597245944950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/52_Problem_Solving_Python$problem_4.coverage" NAME="problem-4 Coverage Results" MODIFIED="1597350594302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/52_Problem_Solving_Python$problem_4.coverage" NAME="problem-4 Coverage Results" MODIFIED="1600266196857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/52_Problem_Solving_Python$problem_3.coverage" NAME="problem-3 Coverage Results" MODIFIED="1597347447359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
